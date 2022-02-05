@@ -1,5 +1,5 @@
 const express = require('express');
-const { db } = require('./db/db.json')
+const {db} = require('./db/db.json')
 const PORT   = process.env.PORT || 3001;
 const app = express()
 // const apiRoutes = require('./routes/apiRoutes')
@@ -16,9 +16,9 @@ app.use(express.static('public'));
 // app.use('/', htmlRoutes);
 
 
-app.post('/api/db', (req, res) => {
-    res.send('Hello!')
-})
+app.get('/api/db', (req, res) => {
+    res.json(db);
+  });
 
 
 app.listen(PORT, () => console.log(`Server now on port ${PORT}!`))
