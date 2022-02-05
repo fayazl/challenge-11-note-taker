@@ -1,13 +1,18 @@
 {
   "notesArray": [
     {
-      "title": "Test Title",
-      "text": "Test text"
+      "title": "My First Note",
+      "text": "This is my first note to display manually added JSON data"
     },
     {
-      "title": "Test",
-      "text": "test",
+      "title": "My Second Note",
+      "text": "This is to test auto functionality from the application",
       "id": "1"
-    }
+    },
+    {
+        "title": "My Third Note",
+        "text": "This is to pre-load existing data per the user story",
+        "id": "2"
+      }
   ]
 }
