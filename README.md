@@ -12,7 +12,7 @@
 
 <img src= "./public/assets/Note-Taker2.png">
 
-Github Live Page: https://fayazl.github.io/challenge-11-note-taker/
-Heroku Link: https://fl-note-taker.herokuapp.com/
+Repo: https://github.com/fayazl/challenge-11-note-taker 
 
+Heroku Link: https://fl-note-taker.herokuapp.com/
 
