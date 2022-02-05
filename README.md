@@ -6,7 +6,7 @@
 
 ## Using express.js we are able to parse data into a JSON file and retrieve datasing POST/GET methods.
 
-## Additioanlly to house the server we are using Heroku, we are deploying the application on both heroku and github.
+## Additionally, to house the server we are using Heroku, we are deploying the application on both heroku and github.
 
 ## Image of application and links can be found below:
 
