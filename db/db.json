@@ -1,5 +1,5 @@
 {
-  "notesArray": [
+  "notes": [
     {
       "title": "My First Note",
       "text": "This is my first note to display manually added JSON data"
@@ -10,9 +10,9 @@
       "id": "1"
     },
     {
-        "title": "My Third Note",
-        "text": "This is to pre-load existing data per the user story",
-        "id": "2"
-      }
+      "title": "My Third Note",
+      "text": "This is to pre-load existing data per the user story",
+      "id": "2"
+    }
   ]
 }
